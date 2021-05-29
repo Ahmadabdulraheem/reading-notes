@@ -1,7 +1,7 @@
 # reading-notes
 
 ### **mind growth**
-'The concept of a growth mindset is a popular topic lately, and I sometimes say to myself “Self, you need to embrace the growth mindset.'
+> The concept of a growth mindset is a popular topic lately, and I sometimes say to myself “Self, you need to embrace the growth mindset.'
 
 ***How you can benefit from a growth mindset?***
 + The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.
