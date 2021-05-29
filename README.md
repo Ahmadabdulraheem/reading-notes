@@ -1,6 +1,6 @@
-# reading-notes
 
-### **mind growth**
+##         **mind growth**
+___
 > The concept of a growth mindset is a popular topic lately, and I sometimes say to myself “Self, you need to embrace the growth mindset.'
 
 ***How you can benefit from a growth mindset?***
