@@ -6,7 +6,7 @@ ___
 | **Title**    | 
 | ------------- |
 |  [Growth mind](https://github.com/Ahmadabdulraheem/reading-notes/blob/main/growth%20mind)| 
-| [Read 02]  (https://github.com/Ahmadabdulraheem/reading-notes/blob/main/read02)  |
+| [Read 02](https://github.com/Ahmadabdulraheem/reading-notes/blob/main/read02)  |
 | [Read03](https://github.com/Ahmadabdulraheem/reading-notes/blob/main/read03) |
 | [Read04](https://github.com/Ahmadabdulraheem/reading-notes/blob/main/read04) | 
 |[Read05](https://github.com/Ahmadabdulraheem/reading-notes/blob/main/Read05) | 
