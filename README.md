@@ -2,7 +2,7 @@
 ___
 > I am *Ahmad AbdUlraheem*, 25 years old from Jordan, Electrical engineer with some experince in the field and for now I'm involved in software development course which it always has been intersting for me,, 
 
-## **Code 102 Reading Notes** 
+## ***Code 102 Reading Notes*** 
 * *table of content*
 
 | **Title**    | 
@@ -17,12 +17,12 @@ ___
 
 
 ________
-### **Code 201 Reading Notes**
+### ***Code 201 Reading Notes***
 * *table of content*
 
 | **Title**    | **link** |
 | ------------- |------|
-|  [read01a] |(https://ahmadabdulraheem.github.io/reading-notes/) | 
+|  [Class-01] |(https://ahmadabdulraheem.github.io/reading-notes/) | 
 | [Read 02] |(https://ahmadabdulraheem.github.io/reading-notes/)  |
 | [Read03] | (https://ahmadabdulraheem.github.io/reading-notes/) |
 | [Read04] | (https://ahmadabdulraheem.github.io/reading-notes/) | 
