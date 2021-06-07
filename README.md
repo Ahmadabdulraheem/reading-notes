@@ -22,7 +22,7 @@ ________
 
 | **Title**    | **link** |
 | ------------- |------|
-|  Class-01 | [Class-01](https://ahmadabdulraheem.github.io/reading-notes/) | 
+|  Class-01 | [Class-01](https://ahmadabdulraheem.github.io/reading-notes/class-01) | 
 | class-02 | [class-02](https://ahmadabdulraheem.github.io/reading-notes/class-02)  |
 | [Read03] | (https://ahmadabdulraheem.github.io/reading-notes/) |
 | [Read04] | (https://ahmadabdulraheem.github.io/reading-notes/) | 
