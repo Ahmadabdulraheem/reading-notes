@@ -80,5 +80,5 @@ Formatting elements were designed to display special types of text:
 
 
 ###### source:
-1.[ducket book](Ducket HTML)
-2.[JPEG vs PNG vs GIF](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
+1. [Duckett HTML book](DucketHTML.com)
+2. [JPEG vs PNG vs GIF](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
