@@ -24,14 +24,15 @@ ________
 | ------------- |------|
 |  Class-01 | [Class-01](https://ahmadabdulraheem.github.io/reading-notes/class-01) | 
 | class-02 | [class-02](https://ahmadabdulraheem.github.io/reading-notes/class-02)  |
-| [Read03] | (https://ahmadabdulraheem.github.io/reading-notes/) |
-| [Read04] | (https://ahmadabdulraheem.github.io/reading-notes/) | 
-| [Read05] | (https://ahmadabdulraheem.github.io/reading-notes/) | 
-| [Read06] | (https://ahmadabdulraheem.github.io/reading-notes/) | 
-| [Read06b] | (https://ahmadabdulraheem.github.io/reading-notes/) |
-| [Read07] | (https://ahmadabdulraheem.github.io/reading-notes/) |
-| [Read08] | (https://ahmadabdulraheem.github.io/reading-notes/) | 
-| [Read09] | (https://ahmadabdulraheem.github.io/reading-notes/) | 
+| class-03 | [class-03](https://ahmadabdulraheem.github.io/reading-notes/class-03) |
+| [class-04] | [class-04](https://ahmadabdulraheem.github.io/reading-notes/class-04) | 
+| [class-05] | [class-05](https://ahmadabdulraheem.github.io/reading-notes/class-05) | 
+| [class-06] | [class-06](https://ahmadabdulraheem.github.io/reading-notes/class-06) | 
+| [Read06b] | (https://ahmadabdulraheem.github.io/reading-notes/class-07) |
+| [Read07] | (https://ahmadabdulraheem.github.io/reading-notes/class-08) |
+| [Read07] | (https://ahmadabdulraheem.github.io/reading-notes/class-09) |
+| [Read08] | (https://ahmadabdulraheem.github.io/reading-notes/class-10) | 
+| [Read09] | (https://ahmadabdulraheem.github.io/reading-notes/class-11) | 
 | [Read010] | (https://ahmadabdulraheem.github.io/reading-notes/) | 
 |[Read011]|(https://ahmadabdulraheem.github.io/reading-notes/) |
  |[Read012]|(https://ahmadabdulraheem.github.io/reading-notes/) |
