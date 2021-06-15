@@ -11,7 +11,7 @@ block-level element then the outer box is
 known as the containing or parent element.
 
 **positioning schemes:**
-|<>|scheme| descripyion|position|
+|<>|scheme| description|position|
 |------|------|------|----|
 | 1. | normal flow | Every block-level element appears on a new line. |static|
 | 2. | relative positioning | This moves an element from the position it would be in normal flow. |relative|
