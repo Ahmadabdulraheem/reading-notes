@@ -29,9 +29,9 @@ ________
 | class-05 | [class-05](https://ahmadabdulraheem.github.io/reading-notes/class-05) | 
 | class-06 | [class-06](https://ahmadabdulraheem.github.io/reading-notes/class-06) | 
 | class-07 | [class-07](https://ahmadabdulraheem.github.io/reading-notes/class-07) |
-| [Read07] | (https://ahmadabdulraheem.github.io/reading-notes/class-08) |
-| [Read07] | (https://ahmadabdulraheem.github.io/reading-notes/class-09) |
-| [Read08] | (https://ahmadabdulraheem.github.io/reading-notes/class-10) | 
+| class-08] | [class-08](https://ahmadabdulraheem.github.io/reading-notes/class-08) |
+| class-09 | [class-09](https://ahmadabdulraheem.github.io/reading-notes/class-09) |
+| class-10 | [class-10](https://ahmadabdulraheem.github.io/reading-notes/class-10) | 
 | [Read09] | (https://ahmadabdulraheem.github.io/reading-notes/class-11) | 
 | [Read010] | (https://ahmadabdulraheem.github.io/reading-notes/) | 
 |[Read011]|(https://ahmadabdulraheem.github.io/reading-notes/) |
