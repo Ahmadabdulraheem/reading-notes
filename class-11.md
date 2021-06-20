@@ -109,5 +109,8 @@ need a domain name and web hosting.
   To transfer your code and images from your
 computer to your hosting company, you use
 something known as File Transfer Protocol.
+  ______
   
+  >Sources: 1.[HTML Ducket book]()
+  2.[audio and video elements](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
   
