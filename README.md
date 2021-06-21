@@ -32,10 +32,6 @@ ________
 | class-08] | [class-08](https://ahmadabdulraheem.github.io/reading-notes/class-08) |
 | class-09 | [class-09](https://ahmadabdulraheem.github.io/reading-notes/class-09) |
 | class-10 | [class-10](https://ahmadabdulraheem.github.io/reading-notes/class-10) | 
-| class-11| [class-11](https://ahmadabdulraheem.github.io/reading-notes/class-11) | 
-| [Read010] | (https://ahmadabdulraheem.github.io/reading-notes/) | 
-|[Read011]|(https://ahmadabdulraheem.github.io/reading-notes/) |
- |[Read012]|(https://ahmadabdulraheem.github.io/reading-notes/) |
-| [Read013]|(https://ahmadabdulraheem.github.io/reading-notes/) | 
-|[Read014]|(https://ahmadabdulraheem.github.io/reading-notes/) | 
-| [Read0115]|(https://ahmadabdulraheem.github.io/reading-notes/) | 
+| class-11 | [class-11](https://ahmadabdulraheem.github.io/reading-notes/class-11) | 
+|class-12 | [class-12](https://ahmadabdulraheem.github.io/reading-notes/class-12) | 
+  
